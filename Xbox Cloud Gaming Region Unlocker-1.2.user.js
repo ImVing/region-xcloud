@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name                 Xbox Cloud Gaming Region Unlocker
-// @name:zh-CN           Xbox Cloud Gaming 云游戏地区限制解除
-// @name:zh-TW           Xbox Cloud Gaming 雲端游戲區域限制解鎖
+// @name                 Xcloud VPN Japan
+// @name:zh-CN           Xcloud VPN Japan
+// @name:zh-TW           Xcloud VPN Japan
 // @namespace            http://tampermonkey.net/
 // @version              1.2
-// @description          Unlock Xbox Cloud Gaming region restrictions.
+// @description          Unlock Xbox Cloud Gaming region restrictions. Chi sua lai de phu hop voi muc dich su dung
 // @description:zh-CN    解除 Xbox Cloud Gaming 云游戏的地区限制
 // @description:zh-TW    解鎖 Xbox Cloud Gaming 雲端游戲的區域限制
 // @author               TGSAN
